@@ -13,11 +13,11 @@
 甘特圖
 `
 
-![NKFUST](2.png "甘特圖")
+![甘特圖](2.png "甘特圖")
 
 ---
 `
-PERT
+PERT/CPM圖
 `
 
-![NKFUST](1.png "PERT")
+![PERT/CPM](1.png "PERT/CPM")
