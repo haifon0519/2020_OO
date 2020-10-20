@@ -25,13 +25,11 @@ PERT/CPM圖
 ![PERT/CPM](1.png "PERT/CPM")
 
 ---
-```
 >功能性需求
 >>A
 
 >非功能性需求
 >>A
-```
 ---
 `
 FDD圖
