@@ -12,5 +12,12 @@
 `
 甘特圖
 `
+
 ![NKFUST](2.png "甘特圖")
 
+---
+`
+PERT
+`
+
+![NKFUST](1.png "PERT")
