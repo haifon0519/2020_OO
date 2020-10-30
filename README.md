@@ -116,5 +116,5 @@ DFD圖
 DFD圖0
 `
 
-![FDD圖](6.jpg "FDD圖")
+![FDD圖](6.png "圖0")
 
