@@ -170,3 +170,10 @@ UML 類別圖
 `
 
 ![實體關係圖](實體關係圖.png "實體關係圖")
+
+---
+`
+PPT
+`
+
+https://drive.google.com/file/d/1R1jk3OfzRNO14SfuZM01aL4BBJ85Ha8R/view?usp=sharing
